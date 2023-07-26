@@ -1,0 +1,6 @@
+.box h1 {
+  color: white;
+}
+.box h1:nth-of-type(1) {
+  background-color: #ecbcbc;
+}
